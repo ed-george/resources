@@ -68,6 +68,9 @@ Learning how to hack
 Here's a huge list of books you can read for free online. If you want to learn more about Python, iOS, C++, or anything else, you can probably find a decent book here.
 https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
 
+This list of popular academic papers may provide you with a more indepth insight into Computer Science and programming should that be of interest:
+https://github.com/papers-we-love/papers-we-love
+
 ### Git
 
 http://try.github.io/
@@ -77,6 +80,8 @@ http://gitimmersion.com/‎
 http://git-scm.com/book
 
 http://github.io
+
+https://github.com/tiimgreen/github-cheat-sheet
 
 ### Useful resources
 
