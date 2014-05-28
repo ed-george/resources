@@ -89,6 +89,20 @@ Hacker News: For all the latest tech and blogosphere events.
 
 https://news.ycombinator.com/
 
+### Documentation
+
+Dev Docs - Web based docs for multiple programming languages
+
+http://devdocs.io/
+
+Zeal (Linux/Windows) - Simple offline API documentation browser 
+
+http://zealdocs.org/
+
+Dash (OSX only) - App to view 150+ docsets allowing them to be available offline
+
+http://kapeli.com/dash
+
 ### Some hacking practice
 
 - ICPC style practice:
